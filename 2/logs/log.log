@@ -1,0 +1,14 @@
+{"message":"服务启动,端口3000","level":"info"}
+info: 服务启动,端口3000
+undefined
+undefined
+undefined
+2020-06-29T23:11:18.936Z info: 配置跨域处理
+2020-06-29T23:11:18.939Z info: 配置路由
+2020-06-29T23:11:18.943Z info: 服务启动,端口3000
+undefined info: 配置跨域处理
+undefined info: 配置路由
+undefined info: 服务启动,端口3000
+2020-06-29T23:16:48.113Z info: 配置跨域处理
+2020-06-29T23:16:48.115Z info: 配置路由
+2020-06-29T23:16:48.120Z info: 服务启动,端口3000
